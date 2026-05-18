@@ -1,0 +1,105 @@
+prompt 1:
+I am a new software developer and I want you to help me build a landing page of a children’s clothing company called CHILDREN SMART.
+
+prompt 2: 
+The landing page should have the following sections:
+ A menu bar, logo, and a search bar all on the same level 
+Let the menu be sticky and let it have the following items with a drop down in each of them:
+- product 
+- services
+- customer service 
+- contact us 
+
+promp 3:
+Let the menu bar be captured inside a blue-colored frame. Let the lettering be white so they are legible 
+
+prompt 4:
+Create a logo for me and place it at the top left hand side of the landing page 
+
+prompt 5:
+Let the search bar sit on the top right hand side of the menu bar.
+
+prompt 6:
+A panel that sits on the left hand side of the menu bar. Let users be able to navigate to the main section using the links here.
+
+prompt 7:
+This section should have the following listed links, arranged in a stack format. Each of these should be clickable. When clicked, each should lead to the relevant row in the main section of the landing page
+  - Children's Shoes
+  - Girls' Toys
+  - Boys' Toys
+  - Sample School Uniforms
+  - Girls' Blouses
+  - Boys' Trousers
+  - Girls' Skirts 
+
+prompt 8:
+A hero section that is about 35% of the length of the landing page and 100% of its width 
+Let the hero section have a purple background 
+
+prompt 9:
+Let the hero section have an image of kids clothe and a write up under the image and place them at the right hand side of the hero section.
+
+prompt 10:
+Let the hero section have a welcoming headline and a tagline, and a Shop now link under it. Place them at the left hand side of the hero section.
+
+prompt 11:
+ A main body divided into 7 rows with each row having 5 product cards filled with children’s items relevant to the
+- shoes should have different types: male sandals, female sandals, laced shoes, non-laced shoes etc.
+- Girls’ toys should have different types
+- Boys’ toys should have different types 
+- School uniforms should have different types 
+- Girls’ blouses should have different types 
+- Boys’ trousers should have different types 
+- Girls’ skirts should have different types 
+
+prompt 12:
+A footer that has all the copyright, and social media links of the company 
+
+prompt 13:
+Build me this using HTML and CSS. Do not use inline styling for CSS.
+Let the IDE be Visual Studio Code
+
+prompt 14:
+Kindly insert comments in your code so that my team members will be able to interpret and understand your code a lot faster. 
+
+prompt 15:
+My theme color is blue and pink.
+
+prompt 16:
+Use pictures with good quality and the right aspect ratio.
+
+prompt 17:
+Document everything  on the Landing Page using the Dewey classification system
+
+1.0 = LANDING PAGE
+
+1.1 = MENU SECTION
+1.1.1 Logo Section
+
+1.1.2 Navigation Menu
+1.1.2.1 Products Dropdown
+1.1.2.2 Services Dropdown
+1.1.2.3 Customer Service Dropdown
+1.1.2.4 Contact Dropdown
+
+1.1.3 Search Bar
+
+1.2 = LEFT SIDE PANEL SECTION
+
+1.3 = HERO SECTION
+1.3.1 Left Hero Text
+1.3.1 Right Hero Image
+
+1.4 = MAIN SECTION
+1.4.1 ROW 1 - SHOES
+1.4.2 ROW 2 - GIRLS TOYS
+1.4.3 ROW 3 - BOYS TOYS
+1.4.4 ROW 4 - SCHOOL UNIFORMS
+1.4.5 ROW 5 - GIRLS BLOUSES
+1.4.6 ROW 6 - BOYS TROUSERS
+1.4.7 ROW 7 - GIRLS SKIRTS
+
+1.5 FOOTER SECTION
+1.5.1 Logo
+1.5.2 Copyright
+1.5.3 Social media links
